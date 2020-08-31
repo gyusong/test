@@ -1,2 +1,2 @@
-include ':app', ':testrepo'
+include ':app', ':testrepo', ':superrepo'
 rootProject.name='test'
